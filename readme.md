@@ -13,9 +13,9 @@ I am currently studying front-end development at Noroff and i am learning to mak
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissebah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Top Repositories:
-![](https://github.com/Chrissebah/Cross-Course-Assignment-HTML-CSS)<br/>
-![](https://github.com/Chrissebah/SemesterProject-1)<br/>
-![](https://github.com/Noroff-FEU-Assignments/project-exam-1-Chrissebah)
+https://github.com/Chrissebah/Cross-Course-Assignment-HTML-CSS
+https://github.com/Chrissebah/SemesterProject-1
+https://github.com/Noroff-FEU-Assignments/project-exam-1-Chrissebah
 
 
 ---
