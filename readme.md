@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying front end development at Noroff and i am learning to make attractive website using HTMl CSS and Javascript
+I am currently studying front-end development at Noroff and i am learning to make attractive website using HTMl, CSS and Javascript. I would love to eventually look into learning some back-end too so that I can have  better all round knowledge of coding.
 
 
 ## 🌐 Socials:
